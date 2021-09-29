@@ -10,3 +10,5 @@ Ce repository est détaillé selon les différents domaines de la cybersécurit�
 * Réseau
 * Analyse de Malware
 * ...
+
+Ces connaissances sont issues de plusieurs sources tel que des plateformes spécialisées (TryHackMe, ...) ou des livres qui traitent du sujet.
